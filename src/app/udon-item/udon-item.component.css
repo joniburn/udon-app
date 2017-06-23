@@ -1,0 +1,13 @@
+.udon-item {
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.udon-name {
+  font-size: 2rem;
+  margin: 5px;
+}
+
+.udon-description {
+  margin: 5px;
+}
